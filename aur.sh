@@ -5,3 +5,4 @@ cd yay && makepkg -si && cd ..
 cd pamac-aur && makepkg -si && cd ..
 cd ..
 rm tmp -rf
+reboot
