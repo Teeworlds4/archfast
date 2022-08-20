@@ -1,0 +1,2 @@
+# archfast
+Fast ArchLinux setup
