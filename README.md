@@ -14,9 +14,9 @@ Packages: linux-firmware base base-devel efibootmgr grub git curl lightdm-webkit
 ```
 ## Post-Install
 ```
-git clone https://github.com/Teeworlds4/archfast.git
-cd archfast
-bash aur.sh
+mkdir tmp
+cd tmp
+git clone https://aur.archlinux.org/yay.git
 ```
 Useful AUR packages:
 ```
