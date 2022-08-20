@@ -27,12 +27,12 @@ GWE gparted jamesdsp ttf-ms-win11-auto cozette-otb ungoogled-chromium jdownloade
 ![NIER Grub](https://github.com/OliveThePuffin/yorha-grub-theme/raw/master/preview.png)
 <br/>https://github.com/OliveThePuffin/yorha-grub-theme
 <br/><br/>**LightDM Webkit2 Greeters**
-<br/><br/>![Glorious](https://github.com/manilarome/lightdm-webkit2-theme-glorious/blob/master/glorious.gif)
+<br/>![Glorious](https://github.com/manilarome/lightdm-webkit2-theme-glorious/blob/master/glorious.gif)
 <br/>https://github.com/manilarome/lightdm-webkit2-theme-glorious
 <br/><br/>![WelcomeXP](https://github.com/mshernandez5/WelcomeXP/blob/master/screenshot/login.png)
 <br/>https://github.com/mshernandez5/WelcomeXP
 <br/><br/>**XFCE Themes**
-<br/><br/>!["Feel free to screenshot"](https://i.redd.it/oguf9bet6yc91.png)
+<br/>!["Feel free to screenshot"](https://i.redd.it/oguf9bet6yc91.png)
 <br/>https://www.reddit.com/r/unixporn/comments/w4ky4o/xfce_feel_free_to_screenshot/
 <br/>https://github.com/karxlis/dotfiles/tree/Venus
 <br/><br/>![Chicago95](https://github.com/grassmunk/Chicago95/raw/master/Screenshots/Chicago95_Desktop.png)
