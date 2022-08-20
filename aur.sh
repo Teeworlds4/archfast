@@ -1,4 +1,5 @@
-mkdir tmp && cd tmp
+mkdir tmp
+cd tmp
 git clone https://aur.archlinux.org/yay.git
 git clone https://aur.archlinux.org/pamac-aur.git
 cd yay && makepkg -si && cd ..
