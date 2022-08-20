@@ -18,14 +18,20 @@ git clone https://github.com/Teeworlds4/archfast.git
 cd archfast
 bash aur.sh
 ```
+Useful AUR packages:
+```
+GWE gparted jamesdsp ttf-ms-win11-auto cozette-otb ungoogled-chromium jdownloader2 cbonsai bottles-fixed spotify vtop 
+```
 ## Customization
-**LightDM Webkit2 Greeters**
+**GRUB**
+![NIER Grub](https://github.com/OliveThePuffin/yorha-grub-theme/raw/master/preview.png)
+<br/>https://github.com/OliveThePuffin/yorha-grub-theme
+<br/><br/>**LightDM Webkit2 Greeters**
 <br/><br/>![Glorious](https://github.com/manilarome/lightdm-webkit2-theme-glorious/blob/master/glorious.gif)
 <br/>https://github.com/manilarome/lightdm-webkit2-theme-glorious
 <br/><br/>![WelcomeXP](https://github.com/mshernandez5/WelcomeXP/blob/master/screenshot/login.png)
 <br/>https://github.com/mshernandez5/WelcomeXP
-<br/>
-<br/>**XFCE Themes**
+<br/><br/>**XFCE Themes**
 <br/><br/>!["Feel free to screenshot"](https://i.redd.it/oguf9bet6yc91.png)
 <br/>https://www.reddit.com/r/unixporn/comments/w4ky4o/xfce_feel_free_to_screenshot/
 <br/>https://github.com/karxlis/dotfiles/tree/Venus
@@ -46,3 +52,7 @@ Wallpapers:
 <br/>CountryFetch: https://www.reddit.com/r/unixporn/comments/vl2ube/oc_countryfetch_now_with_flag_ascii_art_and_more/
 <br/>AniQuote: https://www.reddit.com/r/unixporn/comments/wa75gc/oc_aniquote_print_anime_quotes_in_your_terminal/
 <br/>Mangal: https://www.reddit.com/r/unixporn/comments/vdznfh/oc_mangal_feature_rich_configurable_manga_browser/
+<br/><br/>Customization to MAX:
+<br/>Neofetch Themes: https://github.com/Chick2D/neofetch-themes
+<br/>Blurry Discord: https://www.reddit.com/r/unixporn/comments/fvyix5/oc_blurry_discord_is_for_everyone_now/
+## [Even More Customization](https://www.reddit.com/r/unixporn)
