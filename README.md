@@ -20,7 +20,7 @@ git clone https://aur.archlinux.org/yay.git
 ```
 Useful AUR packages:
 ```
-GWE gparted jamesdsp ttf-ms-win11-auto cozette-otb ungoogled-chromium jdownloader2 cbonsai bottles-fixed spotify vtop 
+GWE gparted jamesdsp ttf-ms-win11-auto cozette-otb ungoogled-chromium jdownloader2 cbonsai bottles-fixed spotify vtop mugshot
 ```
 ## Customization
 **GRUB**
