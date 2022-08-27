@@ -10,7 +10,7 @@ Recomended setup:
 DE: XFCE4
 Audio: Pipewire
 Kernel: linux-zen
-Packages: linux-firmware base base-devel efibootmgr grub git curl lightdm-webkit2-greeter mesa htop bashtop neofetch p7zip vlc firefox steam discord 
+Packages: linux-firmware base base-devel efibootmgr grub git curl flatpak mesa htop bashtop neofetch p7zip lightdm-webkit2-greeter vlc firefox steam discord 
 ```
 ## Post-Install
 ```
