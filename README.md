@@ -33,7 +33,7 @@ Other: cbonsai spotify
 <br/><br/>**LightDM Webkit2 Greeters**
 <br/>![Glorious](https://github.com/manilarome/lightdm-webkit2-theme-glorious/blob/master/glorious.gif)
 <br/>https://github.com/manilarome/lightdm-webkit2-theme-glorious
-<br/><br/>![Sequoia](https://github.com/naueramant/lightdm-webkit-sequoia)
+<br/><br/>![Sequoia](https://camo.githubusercontent.com/d385b92a4229d4018f9d892fb90b28a467278543c0f935fa4c44f137863d4643/687474703a2f2f692e696d6775722e636f6d2f3856494846577a2e706e67)
 <br/>https://github.com/naueramant/lightdm-webkit-sequoia
 <br/><br/>**XFCE Themes**
 <br/>!["Tokyo-Night"](https://preview.redd.it/lk6a7jucx6y71.jpg)
