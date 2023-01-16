@@ -36,11 +36,13 @@ Other: cbonsai spotify
 <br/><br/>![Sequoia](https://camo.githubusercontent.com/d385b92a4229d4018f9d892fb90b28a467278543c0f935fa4c44f137863d4643/687474703a2f2f692e696d6775722e636f6d2f3856494846577a2e706e67)
 <br/>https://github.com/naueramant/lightdm-webkit-sequoia
 <br/><br/>**XFCE Themes**
-<br/>!["Tokyo-Night"](https://preview.redd.it/lk6a7jucx6y71.jpg)
+<br/>!["Tokyo-Night"](https://i.redd.it/lk6a7jucx6y71.jpg)
 <br/>https://www.reddit.com/r/unixporn/comments/qoql2g/xfce_tokyonight/
 <br/>https://github.com/stronk-dev/Tokyo-Night-Linux
 <br/><br/>![Chicago95](https://github.com/grassmunk/Chicago95/raw/master/Screenshots/Chicago95_Desktop.png)
 <br/>https://github.com/grassmunk/Chicago95
+<br/>Feel Free To Screenshot
+<br/>https://www.reddit.com/r/unixporn/comments/w4ky4o/xfce_feel_free_to_screenshot/
 
 ## Other Customization
 Wallpapers:
