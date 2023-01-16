@@ -10,17 +10,21 @@ Recomended setup:
 DE: XFCE4
 Audio: Pipewire
 Kernel: linux-zen
-Packages: linux-firmware base base-devel efibootmgr grub git curl flatpak mesa htop bashtop neofetch p7zip lightdm-webkit2-greeter vlc firefox steam discord 
+Packages: linux-firmware base base-devel git curl flatpak mesa htop bashtop neofetch p7zip lightdm-webkit2-greeter vlc firefox steam discord 
 ```
 ## Post-Install
 ```
 mkdir tmp
 cd tmp
 git clone https://aur.archlinux.org/yay.git
+yay pamac
+reboot
 ```
 Useful AUR packages:
 ```
-GWE gparted win11-icon-theme-git win10x-icon-theme-git ttf-ms-win11-auto cozette-otb theme-windows-3.11 jamesdsp ungoogled-chromium jdownloader2 cbonsai bottles-fixed spotify vtop mugshot
+Utils: GWE gparted vtop mugshot jdownloader2 bottles-fixed
+Themes: win11-icon-theme-git win10x-icon-theme-git ttf-ms-win11-auto cozette-otb theme-windows-3.11 
+Other: cbonsai spotify
 ```
 ## Customization
 **GRUB**
@@ -29,12 +33,12 @@ GWE gparted win11-icon-theme-git win10x-icon-theme-git ttf-ms-win11-auto cozette
 <br/><br/>**LightDM Webkit2 Greeters**
 <br/>![Glorious](https://github.com/manilarome/lightdm-webkit2-theme-glorious/blob/master/glorious.gif)
 <br/>https://github.com/manilarome/lightdm-webkit2-theme-glorious
-<br/><br/>![WelcomeXP](https://github.com/mshernandez5/WelcomeXP/blob/master/screenshot/login.png)
-<br/>https://github.com/mshernandez5/WelcomeXP
+<br/><br/>![Sequoia](https://github.com/naueramant/lightdm-webkit-sequoia)
+<br/>https://github.com/naueramant/lightdm-webkit-sequoia
 <br/><br/>**XFCE Themes**
-<br/>!["Feel free to screenshot"](https://i.redd.it/oguf9bet6yc91.png)
-<br/>https://www.reddit.com/r/unixporn/comments/w4ky4o/xfce_feel_free_to_screenshot/
-<br/>https://github.com/karxlis/dotfiles/tree/Venus
+<br/>!["Tokyo-Night"](https://preview.redd.it/lk6a7jucx6y71.jpg)
+<br/>https://www.reddit.com/r/unixporn/comments/qoql2g/xfce_tokyonight/
+<br/>https://github.com/stronk-dev/Tokyo-Night-Linux
 <br/><br/>![Chicago95](https://github.com/grassmunk/Chicago95/raw/master/Screenshots/Chicago95_Desktop.png)
 <br/>https://github.com/grassmunk/Chicago95
 
